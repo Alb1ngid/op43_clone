@@ -7,3 +7,4 @@ git commit -m 'название' - точка сохранения
 git push origin master\main-отправка в гитХАБ
 
 
+
