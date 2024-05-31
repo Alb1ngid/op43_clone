@@ -2,6 +2,9 @@ git init - инициализация
 git remote add origin ссылку на репозиторий
 
 
+файл .gitignore:
+это файл который скрывает ненужные файлы или важные коды
+
 git add . - добавление
 git commit -m 'название' - точка сохранения
 git push origin master\main-отправка в гитХАБ
