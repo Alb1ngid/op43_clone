@@ -9,5 +9,8 @@ git add . - добавление
 git commit -m 'название' - точка сохранения
 git push origin master\main-отправка в гитХАБ
 
-
+полезные команды :
+git status- показывает на каком вы этапе
+git rm --cached: удаляет файлы
+git rm --cached -r: удаляет папку
 
