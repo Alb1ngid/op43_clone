@@ -14,3 +14,12 @@ git status- показывает на каком вы этапе
 git rm --cached: удаляет файлы
 git rm --cached -r: удаляет папку
 
+
+git clone url
+git remote remove origin
+
+
+git ??
+
+
+
