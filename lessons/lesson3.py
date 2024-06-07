@@ -73,4 +73,4 @@ cl = Person('beka', 1000, 2525, 644)
 print(dir(cl))
 
 print(Person.mro())
-
+#

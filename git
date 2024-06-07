@@ -10,7 +10,7 @@ git commit -m 'название' - точка сохранения
 git push origin master\main-отправка в гитХАБ
 
 полезные команды :
-git status- показывает на каком вы этапе
+git status- показывает на каком вы этапе (-s)
 git rm --cached: удаляет файлы
 git rm --cached -r: удаляет папку
 
@@ -19,7 +19,6 @@ git clone url
 git remote remove origin
 
 
-git ??
 
 
 
