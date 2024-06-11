@@ -1,5 +1,10 @@
 .idea
+.vs
+
+
 .venv
+__pycache__\
+
+env
 new1.py
 test/new.py
-__pycache__\

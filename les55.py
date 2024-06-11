@@ -1,2 +1,3 @@
-pass
-print(type(1))
+from lessons import lesson3
+
+import test2

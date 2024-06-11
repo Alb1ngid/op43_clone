@@ -1,5 +1,5 @@
 #множественное наследование
-
+import random,time
 class A:
     def __init__(self, name, balance, pin, svv):
         self.name = name
@@ -37,5 +37,8 @@ print(dir(D))
 d=D('beka',10000,10000,10000,'qwertydfghj')
 print(dir(d))
 d.a()
-
 print(D.mro())
+# sql
+# BIGo
+
+#
