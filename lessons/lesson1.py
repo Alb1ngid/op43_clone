@@ -2,6 +2,9 @@
 # PEP8 SOLID ООП
 # ОБЬЕКТНО ориентированное программирование
 
+import last6
+
+
 p='p',1,1.2,True,[],{},(),None
 
 print(type(p))

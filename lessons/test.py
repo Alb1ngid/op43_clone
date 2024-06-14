@@ -7,4 +7,5 @@ from art import tprint
 
 print(col.Fore.MAGENTA,col.Back.GREEN)
 tprint('Hello World')
+
 print('Hello World')
