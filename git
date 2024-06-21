@@ -9,8 +9,11 @@ git add . - добавление
 git commit -m 'название' - точка сохранения
 git push origin master\main-отправка в гитХАБ
 
+
 полезные команды :
-git status- показывает на каком вы этапе (-s)
+git status - показывает на каком вы этапе (-s)
+
+
 git rm --cached: удаляет файлы
 git rm --cached -r: удаляет папку
 
@@ -18,7 +21,8 @@ git rm --cached -r: удаляет папку
 git clone url
 git remote remove origin
 
-git branch
-git branch name
-git checkout name
-
+git branch - показывает ветки *
+git branch name - создает ветку
+git checkout name - переключает ветку
+git merge name - обновляет ветку
+git checkout -b name - создает и сразу на нее переключается
